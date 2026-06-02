@@ -18,7 +18,7 @@
             "last_commit": "2026-04-30T03:47:15Z",
             "owner": "airbnb",
             "repo": "swift",
-            "stars": 2719
+            "stars": 2718
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2022-05-21T17:40:30Z",
             "owner": "allenwong",
             "repo": "30DaysofSwift",
-            "stars": 11493
+            "stars": 11494
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2018-07-01T21:46:06Z",
             "owner": "hsavit1",
             "repo": "Awesome-Swift-Education",
-            "stars": 5781
+            "stars": 5782
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2026-05-12T08:22:13Z",
             "owner": "ipader",
             "repo": "SwiftGuide",
-            "stars": 15986
+            "stars": 15987
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2025-08-27T17:10:22Z",
             "owner": "vim-polyglot",
             "repo": "vim-polyglot",
-            "stars": 5717
+            "stars": 5715
           }
         }
       ],
@@ -290,7 +290,7 @@
             "last_commit": "2026-05-22T05:25:13Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 18655
+            "stars": 18658
           }
         },
         {
@@ -313,10 +313,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-31T19:58:35Z",
+            "last_commit": "2026-06-01T12:47:21Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 50540
+            "stars": 50552
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 48833
+            "stars": 48866
           }
         }
       ],
@@ -361,7 +361,7 @@
             "last_commit": "2025-09-10T15:36:04Z",
             "owner": "Carthage",
             "repo": "Carthage",
-            "stars": 15178
+            "stars": 15176
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-03-09T01:04:51Z",
             "owner": "CocoaPods",
             "repo": "CocoaPods",
-            "stars": 14825
+            "stars": 14824
           }
         },
         {
@@ -397,7 +397,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-31T23:49:46Z",
+            "last_commit": "2026-06-01T17:29:45Z",
             "owner": "swiftlang",
             "repo": "swift-package-manager",
             "stars": 10155
@@ -413,7 +413,7 @@
             "last_commit": "2026-05-28T16:42:11Z",
             "owner": "swiftlang",
             "repo": "swiftly",
-            "stars": 925
+            "stars": 926
           }
         }
       ],
@@ -458,7 +458,7 @@
             "last_commit": "2024-08-03T07:30:28Z",
             "owner": "ochococo",
             "repo": "Design-Patterns-In-Swift",
-            "stars": 15254
+            "stars": 15255
           }
         },
         {
@@ -559,10 +559,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-20T21:50:31Z",
+            "last_commit": "2026-06-01T17:45:40Z",
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14682
+            "stars": 14681
           }
         },
         {
@@ -659,7 +659,7 @@
             "last_commit": "2026-04-09T17:02:52Z",
             "owner": "gohanlon",
             "repo": "swift-memberwise-init-macro",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -724,7 +724,7 @@
             "last_commit": "2026-04-16T08:20:58Z",
             "owner": "SwiftGen",
             "repo": "SwiftGen",
-            "stars": 9538
+            "stars": 9540
           }
         },
         {
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-29T18:10:21Z",
+            "last_commit": "2026-06-01T21:37:18Z",
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5670
@@ -815,7 +815,7 @@
             "last_commit": "2026-04-14T13:23:00Z",
             "owner": "yonaskolb",
             "repo": "XcodeGen",
-            "stars": 8477
+            "stars": 8479
           }
         },
         {
@@ -825,7 +825,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-30T01:04:50Z",
+            "last_commit": "2026-06-02T01:33:46Z",
             "owner": "tuist",
             "repo": "XcodeProj",
             "stars": 2206
@@ -852,7 +852,7 @@
             "last_commit": "2025-06-17T05:43:09Z",
             "owner": "likedan",
             "repo": "Awesome-CoreML-Models",
-            "stars": 7010
+            "stars": 7013
           }
         },
         {
@@ -901,10 +901,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-31T00:50:53Z",
+            "last_commit": "2026-06-02T03:13:27Z",
             "owner": "mediar-ai",
             "repo": "fazm",
-            "stars": 235
+            "stars": 237
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-05-27T19:45:17Z",
             "owner": "MacPaw",
             "repo": "OpenAI",
-            "stars": 2913
+            "stars": 2914
           }
         }
       ],
@@ -962,7 +962,7 @@
             "last_commit": "2024-12-06T07:03:07Z",
             "owner": "kodecocodes",
             "repo": "swift-algorithm-club",
-            "stars": 29102
+            "stars": 29103
           }
         },
         {
@@ -1004,7 +1004,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-31T11:34:38Z",
+            "last_commit": "2026-06-01T16:21:30Z",
             "owner": "kasianov-mikhail",
             "repo": "scout",
             "stars": 27
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-05-10T21:12:38Z",
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26761
+            "stars": 26760
           }
         },
         {
@@ -1247,7 +1247,7 @@
             "last_commit": "2020-06-05T00:39:05Z",
             "owner": "hyperoslo",
             "repo": "Presentation",
-            "stars": 3063
+            "stars": 3065
           }
         },
         {
@@ -1827,10 +1827,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-06-01T02:43:19Z",
+            "last_commit": "2026-06-02T02:13:46Z",
             "owner": "FluidInference",
             "repo": "FluidAudio",
-            "stars": 2109
+            "stars": 2110
           }
         },
         {
@@ -2198,7 +2198,7 @@
             "last_commit": "2026-03-07T05:36:26Z",
             "owner": "ChartsOrg",
             "repo": "Charts",
-            "stars": 28007
+            "stars": 28006
           }
         },
         {
@@ -2347,7 +2347,7 @@
             "last_commit": "2026-04-08T07:50:06Z",
             "owner": "MessageKit",
             "repo": "MessageKit",
-            "stars": 6267
+            "stars": 6266
           }
         },
         {
@@ -2496,7 +2496,7 @@
             "last_commit": "2026-04-16T08:20:58Z",
             "owner": "SwiftGen",
             "repo": "SwiftGen",
-            "stars": 9538
+            "stars": 9540
           }
         },
         {
@@ -2606,7 +2606,7 @@
             "last_commit": "2026-05-06T00:07:20Z",
             "owner": "us",
             "repo": "mocker",
-            "stars": 191
+            "stars": 193
           }
         },
         {
@@ -2645,7 +2645,7 @@
             "last_commit": "2026-05-31T21:44:43Z",
             "owner": "apple",
             "repo": "swift-argument-parser",
-            "stars": 3717
+            "stars": 3719
           }
         },
         {
@@ -2888,7 +2888,7 @@
             "last_commit": "2024-10-31T07:37:58Z",
             "owner": "JohnEstropia",
             "repo": "CoreStore",
-            "stars": 4055
+            "stars": 4056
           }
         },
         {
@@ -3283,7 +3283,7 @@
             "last_commit": "2026-03-26T16:25:02Z",
             "owner": "sindresorhus",
             "repo": "Defaults",
-            "stars": 2465
+            "stars": 2466
           }
         },
         {
@@ -3515,7 +3515,7 @@
             "last_commit": "2024-03-25T09:25:21Z",
             "owner": "CoreOffice",
             "repo": "CoreXLSX",
-            "stars": 903
+            "stars": 904
           }
         },
         {
@@ -3567,7 +3567,7 @@
             "last_commit": "2024-05-18T11:02:25Z",
             "owner": "soapyigu",
             "repo": "LeetCode-Swift",
-            "stars": 4959
+            "stars": 4960
           }
         },
         {
@@ -3612,7 +3612,7 @@
             "last_commit": "2026-03-13T23:46:07Z",
             "owner": "realm",
             "repo": "realm-swift",
-            "stars": 16606
+            "stars": 16607
           }
         },
         {
@@ -3702,7 +3702,7 @@
             "last_commit": "2026-06-01T06:09:53Z",
             "owner": "groue",
             "repo": "GRDB.swift",
-            "stars": 8425
+            "stars": 8426
           }
         },
         {
@@ -3715,7 +3715,7 @@
             "last_commit": "2026-04-27T21:14:23Z",
             "owner": "stephencelis",
             "repo": "SQLite.swift",
-            "stars": 10159
+            "stars": 10160
           }
         },
         {
@@ -3876,7 +3876,7 @@
             "last_commit": "2026-05-17T08:47:21Z",
             "owner": "weichsel",
             "repo": "ZIPFoundation",
-            "stars": 2685
+            "stars": 2686
           }
         }
       ],
@@ -3973,7 +3973,7 @@
             "last_commit": "2023-09-19T09:59:48Z",
             "owner": "malcommac",
             "repo": "SwiftDate",
-            "stars": 7699
+            "stars": 7700
           }
         },
         {
@@ -4161,7 +4161,7 @@
             "last_commit": "2025-09-01T20:09:08Z",
             "owner": "Swinject",
             "repo": "Swinject",
-            "stars": 6711
+            "stars": 6710
           }
         },
         {
@@ -4232,7 +4232,7 @@
             "last_commit": "2026-05-22T14:39:34Z",
             "owner": "devicekit",
             "repo": "DeviceKit",
-            "stars": 4713
+            "stars": 4712
           }
         },
         {
@@ -4514,7 +4514,7 @@
             "last_commit": "2025-09-12T03:55:10Z",
             "owner": "ReactiveCocoa",
             "repo": "ReactiveCocoa",
-            "stars": 19841
+            "stars": 19840
           }
         },
         {
@@ -4540,7 +4540,7 @@
             "last_commit": "2024-04-22T14:51:58Z",
             "owner": "ReSwift",
             "repo": "ReSwift",
-            "stars": 7590
+            "stars": 7592
           }
         },
         {
@@ -4605,7 +4605,7 @@
             "last_commit": "2024-03-23T16:00:17Z",
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2844
+            "stars": 2843
           }
         },
         {
@@ -4965,7 +4965,7 @@
             "last_commit": "2023-04-20T06:28:32Z",
             "owner": "KaneCheshire",
             "repo": "ShowTime",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -5214,7 +5214,7 @@
             "last_commit": "2026-03-03T16:58:41Z",
             "owner": "EFPrefix",
             "repo": "EFQRCode",
-            "stars": 4748
+            "stars": 4749
           }
         },
         {
@@ -5329,7 +5329,7 @@
             "last_commit": "2026-05-31T16:00:59Z",
             "owner": "FluidGroup",
             "repo": "Brightroom",
-            "stars": 3641
+            "stars": 3642
           }
         },
         {
@@ -5472,7 +5472,7 @@
             "last_commit": "2026-04-18T02:55:51Z",
             "owner": "yangKJ",
             "repo": "Harbeth",
-            "stars": 679
+            "stars": 680
           }
         },
         {
@@ -5576,7 +5576,7 @@
             "last_commit": "2026-05-05T15:00:59Z",
             "owner": "onevcat",
             "repo": "Kingfisher",
-            "stars": 24332
+            "stars": 24333
           }
         },
         {
@@ -5732,7 +5732,7 @@
             "last_commit": "2026-04-16T08:20:58Z",
             "owner": "SwiftGen",
             "repo": "SwiftGen",
-            "stars": 9538
+            "stars": 9540
           }
         },
         {
@@ -5810,7 +5810,7 @@
             "last_commit": "2021-12-14T14:24:39Z",
             "owner": "jathu",
             "repo": "UIImageColors",
-            "stars": 3274
+            "stars": 3273
           }
         },
         {
@@ -6359,7 +6359,7 @@
             "last_commit": "2026-05-31T09:24:39Z",
             "owner": "SnapKit",
             "repo": "SnapKit",
-            "stars": 20338
+            "stars": 20337
           }
         },
         {
@@ -6513,7 +6513,7 @@
             "last_commit": "2026-04-16T08:20:58Z",
             "owner": "SwiftGen",
             "repo": "SwiftGen",
-            "stars": 9538
+            "stars": 9540
           }
         },
         {
@@ -6791,7 +6791,7 @@
             "last_commit": "2025-07-08T21:26:16Z",
             "owner": "efremidze",
             "repo": "Cluster",
-            "stars": 1296
+            "stars": 1297
           }
         },
         {
@@ -6925,7 +6925,7 @@
             "last_commit": "2026-05-25T03:31:44Z",
             "owner": "Alamofire",
             "repo": "Alamofire",
-            "stars": 42390
+            "stars": 42391
           }
         },
         {
@@ -7013,7 +7013,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-29T09:15:14Z",
+            "last_commit": "2026-06-01T11:19:52Z",
             "owner": "GoodRequest",
             "repo": "GoodNetworking",
             "stars": 30
@@ -7068,7 +7068,7 @@
             "last_commit": "2026-02-28T16:57:41Z",
             "owner": "Moya",
             "repo": "Moya",
-            "stars": 15365
+            "stars": 15366
           }
         },
         {
@@ -7185,7 +7185,7 @@
             "last_commit": "2024-10-03T11:54:56Z",
             "owner": "ashleymills",
             "repo": "Reachability.swift",
-            "stars": 7978
+            "stars": 7976
           }
         },
         {
@@ -7333,7 +7333,7 @@
             "last_commit": "2026-05-23T17:17:13Z",
             "owner": "pmusolino",
             "repo": "Wormholy",
-            "stars": 2595
+            "stars": 2597
           }
         }
       ],
@@ -7682,7 +7682,7 @@
             "last_commit": "2026-04-20T18:49:33Z",
             "owner": "vapor",
             "repo": "vapor",
-            "stars": 26089
+            "stars": 26094
           }
         },
         {
@@ -7829,7 +7829,7 @@
             "last_commit": "2026-05-17T07:21:53Z",
             "owner": "nicklockwood",
             "repo": "SwiftFormat",
-            "stars": 8811
+            "stars": 8814
           }
         },
         {
@@ -7839,10 +7839,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-31T21:52:52Z",
+            "last_commit": "2026-06-01T09:41:45Z",
             "owner": "realm",
             "repo": "SwiftLint",
-            "stars": 19592
+            "stars": 19596
           }
         },
         {
@@ -7950,7 +7950,7 @@
             "last_commit": "2026-04-22T18:49:30Z",
             "owner": "krzyzanowskim",
             "repo": "CryptoSwift",
-            "stars": 10555
+            "stars": 10556
           }
         },
         {
@@ -8054,7 +8054,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1965
+            "stars": 1966
           }
         }
       ],
@@ -8086,7 +8086,7 @@
             "last_commit": "2024-05-26T06:48:14Z",
             "owner": "evgenyneu",
             "repo": "keychain-swift",
-            "stars": 3004
+            "stars": 3005
           }
         },
         {
@@ -8138,7 +8138,7 @@
             "last_commit": "2026-04-17T20:21:06Z",
             "owner": "square",
             "repo": "Valet",
-            "stars": 4159
+            "stars": 4160
           }
         }
       ],
@@ -8458,10 +8458,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-31T08:52:18Z",
+            "last_commit": "2026-06-01T23:50:39Z",
             "owner": "swiftlang",
             "repo": "swift-corelibs-xctest",
-            "stars": 1183
+            "stars": 1184
           }
         }
       ],
@@ -9044,7 +9044,7 @@
             "last_commit": "2026-04-28T08:03:51Z",
             "owner": "exyte",
             "repo": "ActivityIndicatorView",
-            "stars": 1655
+            "stars": 1654
           }
         },
         {
@@ -9174,7 +9174,7 @@
             "last_commit": "2022-05-16T18:03:28Z",
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5351
+            "stars": 5350
           }
         },
         {
@@ -9239,7 +9239,7 @@
             "last_commit": "2024-09-19T03:25:27Z",
             "owner": "mrustaa",
             "repo": "ContainerController",
-            "stars": 502
+            "stars": 501
           }
         },
         {
@@ -9330,7 +9330,7 @@
             "last_commit": "2024-06-04T06:03:31Z",
             "owner": "AssistoLab",
             "repo": "DropDown",
-            "stars": 2545
+            "stars": 2547
           }
         },
         {
@@ -9655,7 +9655,7 @@
             "last_commit": "2026-05-25T06:30:03Z",
             "owner": "mono0926",
             "repo": "LicensePlist",
-            "stars": 2521
+            "stars": 2522
           }
         },
         {
@@ -9746,7 +9746,7 @@
             "last_commit": "2022-05-16T17:39:01Z",
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 11988
+            "stars": 11989
           }
         },
         {
@@ -9759,7 +9759,7 @@
             "last_commit": "2025-06-12T17:10:15Z",
             "owner": "material-components",
             "repo": "material-components-ios",
-            "stars": 4775
+            "stars": 4776
           }
         },
         {
@@ -9915,7 +9915,7 @@
             "last_commit": "2025-02-13T09:46:15Z",
             "owner": "applidium",
             "repo": "OverlayContainer",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -10110,7 +10110,7 @@
             "last_commit": "2026-04-08T07:13:58Z",
             "owner": "Juanpe",
             "repo": "SkeletonView",
-            "stars": 12874
+            "stars": 12873
           }
         },
         {
@@ -10498,7 +10498,7 @@
             "last_commit": "2025-10-22T18:52:37Z",
             "owner": "Mijick",
             "repo": "Popups",
-            "stars": 1800
+            "stars": 1799
           }
         },
         {
@@ -10550,7 +10550,7 @@
             "last_commit": "2026-05-27T10:48:27Z",
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4039
+            "stars": 4040
           }
         },
         {
@@ -10563,7 +10563,7 @@
             "last_commit": "2024-01-05T10:18:13Z",
             "owner": "vikmeup",
             "repo": "SCLAlertView-Swift",
-            "stars": 5319
+            "stars": 5318
           }
         },
         {
@@ -10641,7 +10641,7 @@
             "last_commit": "2024-05-12T10:28:33Z",
             "owner": "huri000",
             "repo": "SwiftEntryKit",
-            "stars": 6761
+            "stars": 6762
           }
         },
         {
@@ -10680,7 +10680,7 @@
             "last_commit": "2025-11-07T11:53:36Z",
             "owner": "BastiaanJansen",
             "repo": "toast-swift",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -10913,7 +10913,7 @@
             "last_commit": "2026-04-28T09:23:01Z",
             "owner": "richardtop",
             "repo": "CalendarKit",
-            "stars": 2703
+            "stars": 2704
           }
         },
         {
@@ -10965,7 +10965,7 @@
             "last_commit": "2026-05-26T18:09:33Z",
             "owner": "airbnb",
             "repo": "HorizonCalendar",
-            "stars": 3134
+            "stars": 3135
           }
         },
         {
@@ -11980,7 +11980,7 @@
             "last_commit": "2023-05-09T11:16:43Z",
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5242
+            "stars": 5243
           }
         },
         {
@@ -12336,7 +12336,7 @@
             "last_commit": "2025-01-23T20:27:30Z",
             "owner": "HeroTransitions",
             "repo": "Hero",
-            "stars": 22456
+            "stars": 22457
           }
         },
         {
@@ -13569,7 +13569,7 @@
             "last_commit": "2026-05-15T11:42:54Z",
             "owner": "peripheryapp",
             "repo": "periphery",
-            "stars": 6125
+            "stars": 6127
           }
         },
         {
@@ -13782,7 +13782,7 @@
             "last_commit": "2026-05-28T17:15:19Z",
             "owner": "apple",
             "repo": "swift-protobuf",
-            "stars": 4923
+            "stars": 4924
           }
         },
         {
@@ -13834,7 +13834,7 @@
             "last_commit": "2026-04-13T18:54:30Z",
             "owner": "SwifterSwift",
             "repo": "SwifterSwift",
-            "stars": 15078
+            "stars": 15079
           }
         },
         {
@@ -13847,7 +13847,7 @@
             "last_commit": "2026-04-16T08:20:58Z",
             "owner": "SwiftGen",
             "repo": "SwiftGen",
-            "stars": 9538
+            "stars": 9540
           }
         },
         {
@@ -14068,7 +14068,7 @@
             "last_commit": "2024-10-10T10:54:11Z",
             "owner": "SvenTiigi",
             "repo": "WhatsNewKit",
-            "stars": 4380
+            "stars": 4379
           }
         },
         {
@@ -14469,7 +14469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T07:06:42.457Z",
+    "last_updated": "2026-06-02T06:48:09.526Z",
     "original_repository": "matteocrippa/awesome-swift",
     "source_repository": "v1nvn/enhansome-swift",
     "source_repository_description": null,
